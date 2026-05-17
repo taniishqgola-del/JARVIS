@@ -1,0 +1,55 @@
+{
+  "identity": {
+    "creator_claim": {
+      "value": "User asserts they made me",
+      "updated": "2026-05-10"
+    },
+    "age": {
+      "value": "18",
+      "updated": "2026-05-10"
+    },
+    "address_preference": {
+      "value": "sir",
+      "updated": "2026-05-10"
+    },
+    "name": {
+      "value": "Vartnax",
+      "updated": "2026-05-10"
+    },
+    "assistant_name": {
+      "value": "jarvis",
+      "updated": "2026-05-12"
+    },
+    "real_name": {
+      "value": "Vartnax",
+      "updated": "2026-05-12"
+    }
+  },
+  "preferences": {
+    "default_browser": {
+      "value": "chrome",
+      "updated": "2026-05-09"
+    },
+    "address_preference": {
+      "value": "only use sir",
+      "updated": "2026-05-10"
+    },
+    "avoid_browser": {
+      "value": "edge",
+      "updated": "2026-05-10"
+    },
+    "location_context": {
+      "value": "In India, provide all information according to India",
+      "updated": "2026-05-12"
+    }
+  },
+  "projects": {},
+  "relationships": {
+    "love": {
+      "value": "Varsha",
+      "updated": "2026-05-10"
+    }
+  },
+  "wishes": {},
+  "notes": {}
+}
